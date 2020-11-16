@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "SIQ DEVOPS JUMPSTART",
+    "label": "Leon Gregori",
+    "picture": "images/lg.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Developing People and Code to create business value.",
+    "location": {
+      "country": "Germany",
+      "countryCode": "GER",
+      "region": "Frankfurt"
+    },
+    "profiles": [
+      {
+        "network": "Stackoverflow",
+        "username": "gluehbirnenkopf",
+        "url": "https://stackoverflow.com/users/9603310/leong",
+        "x_icon":"fab fa-2x fa-stack-overflow"
+      },
+      {
+        "network": "GitHub",
+        "username": "gluehbirnenkopf",
+        "url": "https://github.com/gluehbirnenkopf",
+        "x_icon":"fab fa-2x fa-github-square"
+      },
+      {
+        "network": "Mail",
+        "url": "mailto:leon@leongregori.com?subject=Hey Leon!&",
+        "x_icon":"fas fa-envelope-open"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "leongregori",
+        "url": "https://www.linkedin.com/in/leongregori",
+        "x_icon": "fab fa-2x fa-linkedin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
+      "company": "Accenture Technology Solutions",
+      "client" : "Major German Bank",
+      "position": "Cloud Solution Architect",
+      "website": "https://www.accenture.com",
+      "startDate": "2020-04-01",
+      "endDate": "2020-12-31",
+      "summary": "Building up universal Infrastructure as Code automation with Terraform across GCP/Azure. In parallel responsible for migrating IBM Websphere based workloads to Tomcat within a public cloud. DevOps Community of Practice Lead, Upskilling Lead for building up the right Skills within our people.",
+      "highlights": []
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1063466206466838528/zM35Ye2e_400x400.jpg",
+      "company": "IBM Global Business Services",
+      "client" : "Deutsche Telekom",
+      "position": "Cloud Platform Lead",
+      "website": "https://www.ibm.de",
+      "startDate": "2018-05-15",
+      "endDate": "2020-03-31",
+      "summary": "Lead (PO and Technical Architect) for a central Infrastructure/DevOps Team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). DevOps Coach for 5 different product teams",
+      "highlights": []
+    },
+    {
+      "image": "https://ibsintelligence.com/wp-content/uploads/2019/08/ecb.jpg",
+      "company": "Accenture",
+      "client": "European Central Bank",
+      "position": "Application Owner",
+      "website": "https://www.accenture.com",
+      "startDate": "2016-06-01",
+      "endDate": "2018-08-30",
+      "summary": "Functional and technical responsible for onboarding 150 IT Services to a central Monitoring Solution of the Bank throughout the whole lifecycle (Plan, Design, Build, Test, Operate)",
+      "highlights": []
+    },
+    {
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJg1WmbU5OKQ/company-logo_200_200/0?e=2159024400&v=beta&t=W1XJDeOOwgbyWZ5blJmPZaekFzcJxT8WodfYh_0TTi4",
+      "company": "Accenture",
+      "client": "Largest European Retailer",
+      "position": "DevOps Engineer",
+      "website": "https://www.accenture.com",
+      "startDate": "2014-12-15",
+      "endDate": "2016-05-31",
+      "summary": "Enablement of functional departments to adopt DevOps best practices",
+      "highlights": []
+    },
+    {
+      "image": "https://it-service.network/wp/30996/logo.jpg",
+      "company": "WSV-Computer Bad Camberg",
+      "position": "IT Support Technician",
+      "website": "https://www.linkedin.com/company/wsv-computer/about/",
+      "startDate": "2011-08-01",
+      "endDate": "2014-07-30",
+      "summary": "Worked for several Clients in a middle-class IT-Consultancy covering Unix/Windows Server Administration as well as VMWare and Cisco Products",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "AKAD Stuttgart",
+      "area": "Business Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-15",
+      "endDate": "2021-12-31",
+      "courses": "Object Oriented Programming, Database Management Systems, Operating systems and computers architectures, Requirements Engineering"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO7DCNJ5B53mANzE-hfuWeeHC2K7awLhxf0g&usqp=CAU",
+      "institution": "California State University, Sacramento",
+      "area": "International Management",
+      "studyType": "Summer School",
+      "startDate": "2017-10-16",
+      "endDate": "2017-11-15",
+      "courses": "Public Speaking, Intercultural Competence, Cambridge C1, Project Management"
+    }
+  ],
+  "certifications": [
+    {
+      "image": "https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png",
+      "institution": "RedHat",
+      "area": "RedHat Certified specialist for Container Development on Openshift",
+      "studyType": "EX288",
+      "startDate": "2020-01-05",
+      "endDate": "2020-01-30",
+      "courses": "Debugging and Troubleshooting of Applications, Unix, Docker, S2i CI/CD, TCP/IP"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png",
+      "institution": "IBM",
+      "area": "Kubernetes & Istio on IBM Cloud Certified",
+      "studyType": "IBM Cloud",
+      "startDate": "2019-10-16",
+      "endDate": "2019-11-15",
+      "courses": "IBM Kubernetes Service Technical Deep Dive, Deployments, Configuration, Operators, Istio"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO7DCNJ5B53mANzE-hfuWeeHC2K7awLhxf0g&usqp=CAU",
+      "institution": "California State University",
+      "area": "Highest English Proficiency",
+      "studyType": "Cambridge C1",
+      "startDate": "2017-10-15",
+      "endDate": "2017-11-15",
+      "courses": "Cambridge C1 English Exam"
+    },
+    {
+      "image": "https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Product Owner & Professional Scrum Master",
+      "studyType": "PSPO I and PSM I",
+      "startDate": "2015-03-15",
+      "endDate": "2016-03-31",
+      "courses": "Professional Scrum Product Owner Course including also Scrum Master"
+    },
+    {
+      "image": "",
+      "institution": "Serview",
+      "area": "ITIL V3 Foundation 2011, Prince2",
+      "studyType": "ITIL V3",
+      "startDate": "2014-11-15",
+      "endDate": "2014-11-31",
+      "courses": "Project Management, Risk Management, Service Management"
+    },
+    {
+      "image": "https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/timeline/vmware-logo-200x200.png",
+      "institution": "VMWare Inc.",
+      "area": "VMware Technical Pre-Sales Professional VSphere 5",
+      "studyType": "VTP5",
+      "startDate": "2013-08-15",
+      "endDate": "2013-08-31",
+      "courses": "Features and USPs of VMWare VSphere 5 Hypervisor. Technical Focus."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Unix",
+      "level": 80,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Continuous Integration/Delivery",
+      "level": 90,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Multi-Cloud Strategy",
+      "level": 85,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Requirement Analysis",
+      "level": 60,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Microservice Architecture",
+      "level": 75,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": 85,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": 75,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "GitOps",
+      "level": 70,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Groovy/Java",
+      "level": 75,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Jenkins",
+      "level": 99,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "RedHat OpenShift & Kubernetes",
+      "level": 85,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Terraform",
+      "level": 80,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Helm",
+      "level": 80,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Spring Boot",
+      "level": 60,
+      "keywords": ["Tools"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Entry Level"
+    },
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tech Investor",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Classic Cars",
+      "x_icon": "fa-car"
+    },
+    {
+      "name": "Haute",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Midfielder",
+      "x_icon": "fa-futbol"
+    },
+    {
+      "name": "3D Printing",
+      "x_icon": "fa-cubes"
+    }
+  ]
+}
